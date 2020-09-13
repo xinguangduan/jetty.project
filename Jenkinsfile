@@ -129,6 +129,4 @@ def mavenBuild(jdk, cmdline, mvnName, consoleParsers) {
   }
 }
 
-
-
 // vim: et:ts=2:sw=2:ft=groovy
